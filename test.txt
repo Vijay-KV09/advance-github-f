@@ -1,5 +1,6 @@
 basic commands
 
 #vijay varma penmatsa #001 #004
+>>>>>>> 753110e3b3eb63f6ce2f39421e9b735509eb2384
 
 #ajay
