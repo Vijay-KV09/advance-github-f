@@ -7,3 +7,5 @@ basic commands
 #ganga
 
 #feature ganga
+
+#adding ganga from github
