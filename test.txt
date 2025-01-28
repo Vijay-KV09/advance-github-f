@@ -10,4 +10,5 @@ basic commands
 
 #adding ganga from github
 
-#merging the process
+
+#now using rebase
