@@ -3,4 +3,10 @@ basic commands
 #vijay varma penmatsa #001 #004 #005 #006 #007 #008
 
 
+<<<<<<< HEAD
 #ajay
+=======
+#ajay 
+
+#ganga
+>>>>>>> a016d32 (added ganga to file)
