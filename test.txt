@@ -10,4 +10,4 @@ basic commands
 
 #adding ganga from github
 
-#adding vijay through local
+#merging the process
