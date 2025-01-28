@@ -9,3 +9,5 @@ basic commands
 #feature ganga
 
 #adding ganga from github
+
+#adding vijay through local
